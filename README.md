@@ -6,7 +6,8 @@ like.
 👾 What I enjoy working on:
 - 🎮 **Game Design**
 - 🎨 **Pixel Art**
-(I dont havea lot of things, so I only really focus on
+  
+(I don't have a lot of things, so I only really focus on
  these things)
 
 🌱 What I am currently learning:
