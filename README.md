@@ -15,6 +15,7 @@ like.
 - 🧑‍💻 **Learning JavaScript**
 - 🧑‍💻 **Learning Python**
 - 🎨 **Learning how to Pixel Art**
+- 😺 **The Scratch Platform**
 
 📫 How you can reach me:
 - [Jdoggames4](mailto:Jdoggames4@gmail.com) 
